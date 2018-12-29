@@ -11,6 +11,16 @@
   text-decoration: none;
 }
 
+.subMain{
+  padding-left: 15px;
+}
+
+
+.subMain ul{
+  margin-top: 5px;
+  margin-bottom: 30px;
+}
+
 .subMain a {
   color: gray;
   text-decoration: underline;
