@@ -11,6 +11,6 @@
   text-decoration: none;
 }
 
-.submain{
-  
+.submain a{
+  text-decoration: underline;
 }
