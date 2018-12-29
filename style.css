@@ -1,4 +1,4 @@
-h1 {
+#myHeader {
   font-size: 45px;
   text-align: center;
   border-bottom: 1px solid gray;
@@ -6,7 +6,7 @@ h1 {
   padding:20px;
 }
 
-a {
+#myHeader a {
   color: black;
   text-decoration: none;
 }
