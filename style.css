@@ -17,7 +17,23 @@ body {
   text-decoration: none;
 }
 
+#secHeader:after{
+  content: "";
+  text-align: center;
+  display: block;
+  width: 100px;
+  border-bottom: 1px solid gray;
+  margin: 20px 0;
+  margin-bottom: 40px;
+}
+
+#secHeader a {
+  color: black;
+  text-decoration: none;
+}
+
 .subMain{
+  padding-right: 30px;
   padding-left: 15px;
 }
 
@@ -30,4 +46,13 @@ body {
 .subMain a {
   color: gray;
   text-decoration: underline;
+}
+
+.paintsTable{
+  margin-bottom: 50px;
+}
+
+.paintsTable img{
+  width: 100px;
+  height: 100px;
 }
